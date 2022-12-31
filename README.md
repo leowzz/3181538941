@@ -2,8 +2,14 @@
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=Emp_ms)](https://github.com/3181538941/Emp_ms)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=Emp_ms)](https://github.com/3181538941/Emp_ms)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=lanzouTool)](https://github.com/3181538941/lanzouTool) -->
+
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=Emp_ms" alt="Readme Card" style="zoom:80%;" />](https://github.com/3181538941/github-readme-stats)
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=lanzouTool" alt="Readme Card" style="zoom:80%;" />](https://github.com/3181538941/lanzouTool)
 <!--
 **3181538941/3181538941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
