@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true)
+<!-- ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true) -->
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true&theme=prussian)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3181538941&repo=Emp_ms)](https://github.com/3181538941/Emp_ms)
 
