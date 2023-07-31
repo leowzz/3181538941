@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true&theme=city_lights)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true)
 
 <!-- ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=3181538941&show_icons=true&theme=dark) -->
 
